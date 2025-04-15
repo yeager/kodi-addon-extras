@@ -1,0 +1,27 @@
+# XBMC Media Center language file
+# Addon Name: Extras
+# Addon id: context.dvd.extras
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Daniel Nylander <github@danielnylander.se>\n"
+"Language-Team: \n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+
+msgctxt "#30000"
+msgid "Extras"
+msgstr "Extramaterial"
+
+msgctxt "#30001"
+msgid "Extras folder"
+msgstr "Mappnamn"
+
+msgctxt "#30002"
+msgid "To use this add-on go to the video library and open the context menu on a movie or TV show."
+msgstr "För att använda detta tillägg går du till videobiblioteket och öppnar kontextmenyn för en film eller en TV-serie."
